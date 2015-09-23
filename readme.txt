@@ -6,3 +6,4 @@ chang2
 edit 
 edit2 
 modify 
+remote 
